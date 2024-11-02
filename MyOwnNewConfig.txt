@@ -1,0 +1,3 @@
+Few configurations stuff after initialization my git repository.
+Now, we seriously need to attempt to "pull" this file back to our local repository.
+Thank you.
